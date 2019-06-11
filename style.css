@@ -1,0 +1,35 @@
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+.wrapper{
+    border: 2px solid black;
+    Width: 970px;
+    padding: 2px;
+}
+td{
+    border: 1px solid gray;
+    padding: 0 5px 7px 5px;
+}
+tr{
+    empty-cells: hide;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.bottom{
+    vertical-align: bottom;
+}
+.top{
+    vertical-align: top;
+}
+.hide{
+    border-bottom: hidden;
+}
+.left{
+    border-left: hidden;
+}
