@@ -4,8 +4,8 @@ table{
     font-size: 15px;
 }
 .wrapper{
-    border: 2px solid black;
-    Width: 970px;
+    border: 1px solid black;
+    width: 970px;
     padding: 2px;
 }
 td{
@@ -32,4 +32,10 @@ tr{
 }
 .left{
     border-left: hidden;
+}
+.bottom-line{
+    border-bottom: 2px solid black;
+}
+.left-line{
+    border-left: 2px solid black;
 }
